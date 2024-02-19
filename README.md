@@ -10,4 +10,4 @@
 ## Problem Statement
 A retail store that has multiple outlets across the country is facing issues in managing the inventory - to match the demand concerning supply. You are a data scientist, who has to come up with useful insights using the data and make prediction models to forecast the sales for X number of months/years.
 
-![Walmart Sales Forecasting][https://github.com/Rohit-Moghe/Walmart-Sales-Forecasting/blob/8cb489708d55e0aa6eba4cb614ef3ee0a5a9d1c8/Walmart_Sales_Forecasting.ipynb]
+[Walmart Sales Forecasting](https://github.com/Rohit-Moghe/Walmart-Sales-Forecasting/blob/8cb489708d55e0aa6eba4cb614ef3ee0a5a9d1c8/Walmart_Sales_Forecasting.ipynb)
