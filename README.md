@@ -6,3 +6,6 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # Walmart-Sales-Forecasting
+
+## Problem Statement
+A retail store that has multiple outlets across the country is facing issues in managing the inventory - to match the demand concerning supply. You are a data scientist, who has to come up with useful insights using the data and make prediction models to forecast the sales for X number of months/years.
